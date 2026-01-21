@@ -1,4 +1,26 @@
-# React + Vite
+#Project Title: CampusEventHub – Inter-College Event Management Platform
+Objective:
+CampusEventHub provides a centralized platform for colleges to host and manage
+various events such as sports competitions, hackathons, cultural fests, and workshops.
+Students from different colleges can browse upcoming events, register for participation,
+and track event details seamlessly.
+Outcomes:-
+Enable students to view and register for inter college events.
+- Allow colleges to manage event listings, registrations, and schedules efficiently.
+- Provide real-time updates on event statuses and registrations.
+- Foster engagement through event feedback and discussions.
+Modules:
+Module A:
+Authentication & User Management
+Module B:
+Event Listing & Registration
+Module C:
+Event Management Dashboard
+Module D:
+Community Feedback & Interaction
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
